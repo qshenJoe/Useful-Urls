@@ -9,6 +9,7 @@
 * [Backend](#backend)
 * [Styling](#styling)
 * [Algorithms](#algorithms)
+* [Linux](#Linux)
 
 ### HTTP
 * [DomSanitizer](#domsanitizer)
@@ -49,6 +50,7 @@ DomSanitizer helps preventing Cross Site Scripting Security bugs (XSS) by saniti
 ### Techniques
 * [Tips to handle undefined in javascript](https://dmitripavlutin.com/7-tips-to-handle-undefined-in-javascript/)
 * [Decorators](https://medium.com/google-developers/exploring-es7-decorators-76ecb65fb841)
+* [ViewChild used with ngIf](https://stackoverflow.com/questions/55610047/angular6-viewchild-undefined-with-ngif)
 
 ### Backend
 * [Api error handling](https://nordicapis.com/best-practices-api-error-handling/)
@@ -62,3 +64,7 @@ DomSanitizer helps preventing Cross Site Scripting Security bugs (XSS) by saniti
 ### Algorithms
 * Array
   * [Chunk an array](https://medium.com/@Dragonza/four-ways-to-chunk-an-array-e19c889eac4)
+
+### Linux
+* [Chmod +x](https://linuxpip.org/chmod-x-explained-everything-you-need-to-know/)
+* [Tutorial](https://linuxconfig.org/bash-scripting-tutorial-for-beginners#h15-conditional-statements)
